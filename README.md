@@ -1,1 +1,1 @@
-# srmap_college
+# college_srm_ap
